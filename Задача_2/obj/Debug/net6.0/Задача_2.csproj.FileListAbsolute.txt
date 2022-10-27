@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\bin\Debug\net6.0\Задача_2.exe
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\bin\Debug\net6.0\Задача_2.deps.json
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\bin\Debug\net6.0\Задача_2.runtimeconfig.json
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\bin\Debug\net6.0\Задача_2.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\bin\Debug\net6.0\Задача_2.pdb
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\Задача_2.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\Задача_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\Задача_2.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\Задача_2.AssemblyInfo.cs
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\Задача_2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\Задача_2.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\refint\Задача_2.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\Задача_2.pdb
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\Задача_2.genruntimeconfig.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_2\obj\Debug\net6.0\ref\Задача_2.dll
