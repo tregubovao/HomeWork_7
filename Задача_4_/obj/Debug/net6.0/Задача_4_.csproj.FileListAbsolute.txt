@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\bin\Debug\net6.0\Задача_4_.exe
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\bin\Debug\net6.0\Задача_4_.deps.json
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\bin\Debug\net6.0\Задача_4_.runtimeconfig.json
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\bin\Debug\net6.0\Задача_4_.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\bin\Debug\net6.0\Задача_4_.pdb
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\Задача_4_.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\Задача_4_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\Задача_4_.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\Задача_4_.AssemblyInfo.cs
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\Задача_4_.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\Задача_4_.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\refint\Задача_4_.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\Задача_4_.pdb
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\Задача_4_.genruntimeconfig.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_4_\obj\Debug\net6.0\ref\Задача_4_.dll
