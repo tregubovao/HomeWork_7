@@ -1,0 +1,30 @@
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\bin\Debug\net6.0\Задача_5_иное решение.exe
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\bin\Debug\net6.0\Задача_5_иное решение.deps.json
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\bin\Debug\net6.0\Задача_5_иное решение.runtimeconfig.json
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\bin\Debug\net6.0\Задача_5_иное решение.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\bin\Debug\net6.0\Задача_5_иное решение.pdb
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\Задача_5_иное решение.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\Задача_5_иное решение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\Задача_5_иное решение.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\Задача_5_иное решение.AssemblyInfo.cs
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\Задача_5_иное решение.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\Задача_5_иное решение.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\refint\Задача_5_иное решение.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\Задача_5_иное решение.pdb
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\Задача_5_иное решение.genruntimeconfig.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_иное решение\obj\Debug\net6.0\ref\Задача_5_иное решение.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\bin\Debug\net6.0\Задача_5_иное решение.exe
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\bin\Debug\net6.0\Задача_5_иное решение.deps.json
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\bin\Debug\net6.0\Задача_5_иное решение.runtimeconfig.json
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\bin\Debug\net6.0\Задача_5_иное решение.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\bin\Debug\net6.0\Задача_5_иное решение.pdb
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\Задача_5_иное решение.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\Задача_5_иное решение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\Задача_5_иное решение.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\Задача_5_иное решение.AssemblyInfo.cs
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\Задача_5_иное решение.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\Задача_5_иное решение.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\refint\Задача_5_иное решение.dll
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\Задача_5_иное решение.pdb
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\Задача_5_иное решение.genruntimeconfig.cache
+C:\Users\Александр\Desktop\ПАПА\_Обучение\C#_семинары\reposit\ДЗ №7\Задача_5_\obj\Debug\net6.0\ref\Задача_5_иное решение.dll
