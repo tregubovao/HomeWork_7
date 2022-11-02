@@ -21,22 +21,22 @@ void PrintArray(int[,] matrix)
     }
 }
 
-double SredneeArifmStolbca(int[,] matrix, int m, int j)
+double SredneeArifmStolbca(int[,] matrix,int j)
 {
 double sum = 0;
 double SrArifm = 0;
-    for (int i = 0; i < m; i++)
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
         sum = sum + matrix [i,j];        
-        SrArifm = sum / m;
+        SrArifm = sum / matrix.GetLength(0);
     }
 return SrArifm;    
 }
 
-void GenerateArrayElement(double[] array, int n, int m, int[,] matrix)
+void GenerateArrayElement(double[] array, int[,] matrix)
 {
-    for (int j = 0; j < n; j++)
-    array[j] = SredneeArifmStolbca(matrix, m, j);
+    for (int j = 0; j < matrix.GetLength(1); j++)
+    array[j] = SredneeArifmStolbca(matrix, j);
 }
 
 void PrintArr(double[] array)
