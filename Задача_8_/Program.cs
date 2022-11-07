@@ -21,20 +21,20 @@ void PrintArray(int[,] matrix)
     }
 }
 
-int SummaChiselStroki(int[,] matrix, int i, int n)
+int SummaChiselStroki(int[,] matrix, int i)
 {
-int sum = 0;
-    for (int j = 0; j < n; j++)
+    int sum = 0;
+    for (int j = 0; j < matrix.GetLength(1); j++)
     {
-        sum = sum + matrix [i,j];       
+        sum = sum + matrix[i, j];
     }
-return sum;    
+    return sum;
 }
 
-void GenerateArrayElement(int[] array, int n, int m, int[,] matrix)
+void GenerateArrayElement(int[] array, int[,] matrix)
 {
-    for (int i = 0; i < m; i++)
-    array[i] = SummaChiselStroki(matrix, i, n);
+    for (int i = 0; i < matrix.GetLength(0); i++)
+        array[i] = SummaChiselStroki(matrix, i);
 }
 
 Console.WriteLine("Введите количество строк: ");
